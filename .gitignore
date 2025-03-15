@@ -5,3 +5,9 @@ Intermediate/CachedAssetRegistry_0.bin
 Saved/AutoScreenshot.png
 Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
 Saved/Logs/reng2d.log
+*.log
+*.ini
+Intermediate/CachedAssetRegistry_0.bin
+Saved/Autosaves/PackageRestoreData.json
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Saved/Logs/reng2d.log
